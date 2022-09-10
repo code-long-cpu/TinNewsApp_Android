@@ -6,10 +6,10 @@ A news application on the andriod platform.
 
 The users can:
 
-swipe left or right to represent their like or dislike of the news.
+1. swipe left or right to represent their like or dislike of the news.
 
-search the news on specific topic
+2. search the news on specific topic
 
-view the details of news they save
+3. view the details of news they save
 
-The application is built on Java.
+4. The application is built on Java.
